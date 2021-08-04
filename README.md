@@ -1,2 +1,2 @@
-# EpiclyRandom
-YouTube Notifier
+# Discord-Youtube-Video-Notifier
+OWO whats that ???
